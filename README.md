@@ -2,12 +2,15 @@
 > Taking <a href="https://store.steampowered.com/">Steam</a> data from <a href="https://cseweb.ucsd.edu/~jmcauley/datasets.html#steam_data">Julian Mcauley's Datasets</a> we analyzed the data using various Recommender Analysis methods to determine what method, or combination of methods, Steam most likely uses in their own recommender systems. We then wrote a paper explaining our ideas and processes to any new programmers or companies who are beginning to look into "monetizing their data."
 
 <br>
+
 ---
+
 > Take just 5 minutes to watch our analysis video...
 
 [![SRSA Video](https://github.com/Chandler-Thompson/SRSA/blob/master/Report/PreziVideoPicture.png?raw=true)](https://prezi.com/v/jpnsimqigwam/untitled-video/)
 
 ---
+
 <br>
 
 ## Recommender Systems Used
