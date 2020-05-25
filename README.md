@@ -52,4 +52,4 @@
 | <a href="https://www.linkedin.com/in/richard-c-thompson/" target="_blank">**Richard C Thompson**</a> | <a href="https://www.linkedin.com/in/alfredo-nolasco/" target="_blank">**Al Nolasco**</a> |
 | :---: |:---:|
 | [![Richard C Thompson](https://avatars0.githubusercontent.com/u/6445925?s=200&u=edcfd7115ca072e0ab9eff05302af7b711715941&v=4)](https://www.linkedin.com/in/richard-c-thompson/)    | [![Al Nolasco](https://media-exp1.licdn.com/dms/image/C4D03AQEJP1jVN84w-w/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=BANexZYHVZ5xDuuT0OL95B2SoqDtGZmvWKa2bPfgEgI)](https://www.linkedin.com/in/alfredo-nolasco/) |
-| <a href="http://github.com/chandler-thompson" target="_blank">`github.com/chandler-thompson`</a> |  |
+| <a href="http://github.com/chandler-thompson" target="_blank">`github.com/Chandler-Thompson`</a> | <a href="https://github.com/AlNolasco">`github.com/AlNolasco`</a> |
